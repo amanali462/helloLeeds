@@ -1,0 +1,56 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 4.0.2
+  http://backwpup.com
+  Blog Name: Hello Leeds
+  Blog URL: http://webdevelopmenthelloleeds.test
+  Generated on: 2024-01-18 17:55.02
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Advanced Custom Fields (v.6.2.4) from WP Engine
+	https://www.advancedcustomfields.com
+BackWPup (v.4.0.2) from WP MEDIA SAS
+	http://backwpup.com
+Classic Editor (v.1.6.3) from WordPress Contributors
+	https://wordpress.org/plugins/classic-editor/
+Copy & Delete Posts (v.1.4.4) from Copy Delete Posts
+	https://copy-delete-posts.com
+Custom Mime Types (v.1.0.1) from Jafran Hasan
+	https://returnxero.com/custom-mime-types/
+Events Plugin (v.1.0) from Aman Ali
+	http://webdevelopmenthelloleeds.test
+Favorites (v.2.3.3) from Kyle Phillips
+	http://favoriteposts.com
+Hummingbird (v.3.7.1) from WPMU DEV
+	https://wpmudev.com/project/wp-hummingbird/
+Inner Attractions Plugin (v.1.0) from Aman Ali
+	http://webdevelopmenthelloleeds.test
+Newsletter (v.8.0.7) from Stefano Lissa & The Newsletter Team
+	https://www.thenewsletterplugin.com
+Outer Attractions Plugin (v.1.0) from Aman Ali
+	http://webdevelopmenthelloleeds.test
+Theme Check (v.20231220) from Themes Team
+	https://github.com/WordPress/theme-check/
+UpdraftPlus - Backup/Restore (v.1.23.16) from UpdraftPlus.Com, DavidAnderson
+	https://updraftplus.com
+
+Active plugins:
+------------------------------
+Advanced Custom Fields
+BackWPup
+Classic Editor
+Copy & Delete Posts
+Events Plugin
+Favorites
+Inner Attractions Plugin
+Newsletter
+Outer Attractions Plugin
+Theme Check
+UpdraftPlus - Backup/Restore
+
+Inactive plugins:
+------------------------------
+Custom Mime Types
+Hummingbird

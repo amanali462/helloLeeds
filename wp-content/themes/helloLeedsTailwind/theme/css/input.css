@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Oswald&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p{
+  line-height: 30px;
+}
+
+#overlay {
+    animation: fadein .5s ease-in-out;
+}
+
+@keyframes fadein
+{
+  0%{
+    opacity:0;
+  }
+
+  100%
+  {
+    opacity:60%;
+  }
+}
+
+
+#primary-menu .menu-item{ 
+    position: relative; 
+    padding: 15px 0;
+  }
+  #primary-menu .menu-item{
+    display: block;
+    position: relative;
+    padding: 5px 0;
+  }
+
+#primary-menu .menu-item:after {    
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 3px;
+    position: absolute;
+    background: red;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+  }
+  
+  #primary-menu .menu-item:hover:after { 
+    width: 60%; 
+    left: 0; 
+  }
+
+#primary-menu {
+  text-align: left;
+  color: #e53e3e;
+  display: inline-block;
+
+  @media (min-width: 1024px) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+  }
+}
+
